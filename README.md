@@ -1,9 +1,10 @@
-<h1 align="center"> Hi there, I am Riyanshi Verma 👋<h1>
+<h1 align="center"> Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Riyanshi Verma<h1>
 <h3 align="center">A passionate programmer and developer<h3>
   
+##  🙋🏻‍♀️ About Me  
 
 - 🏫 I'm a B.Tech 3rd year, Computer Science student at Banasthali Vidyapith, Rajasthan
-- 🔭 I’m currently working on StudentHelpDesk, 6th semester project.
+- 🔭 I’m currently working on **[StudentHelpDesk](https://github.com/Riyanshi243/StudentHelpDesk)**, 6th semester project.
 - 🌱 I’m currently learning Android Development and Machine Learning.
 - 📫 How to reach me: Email- riyanshiverma243@gmail.com
 - 💞️ I’m always looking to collaborate and work in anything that is exciting.
