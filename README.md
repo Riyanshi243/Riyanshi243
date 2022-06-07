@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Riyanshi Verma <h1>
+<h1 align="center"> Hi there,👋 I am Riyanshi Verma <h1>
 <h3 align="center">A passionate programmer and developer<h3>
 🙋🏻‍♀️ About Me  
   
