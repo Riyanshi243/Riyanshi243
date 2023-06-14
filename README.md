@@ -2,8 +2,7 @@
 <h3 align="center">A passionate programmer and developer<h3>
 🙋🏻‍♀️ About Me  
   
-- 🏫 I'm a B.Tech 3rd year, Computer Science student at Banasthali Vidyapith, Rajasthan
-- 🔭 I’m currently working on **[RurbanSoft](https://github.com/Riyanshi243/RurbanSoft)**, Internship semester project.
+- 🏫 I have completed my B.Tech in Computer Science from Banasthali Vidyapith, Rajasthan.
 - 🌱 I’m currently learning Android Development and Machine Learning.
 - 📫 How to reach me: Email- riyanshiverma243@gmail.com
 - 💞️ I’m always looking to collaborate and work in anything that is exciting.
